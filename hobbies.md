@@ -2,3 +2,4 @@
 * comer
 * leer
 * dormir
+* pepe
